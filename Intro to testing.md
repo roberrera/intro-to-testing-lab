@@ -1,4 +1,4 @@
-# Intro to Testing Lab
+# [Intro to Testing Lab](https://github.com/roberrera/intro-to-testing-lab)
 ### App: Day One 2 (Mac/iOS)
 
 ---
@@ -52,3 +52,21 @@
 4. As a user, I can create a new entry from this screen.
 5. As a user, I can open any entry on the screen.
 6. As a user, I can search for a particular entry.
+
+---
+
+**Test Case: Calendar View**
+1. The user can a calendar, with highlighted days representing days that include entries.
+2. The user can click on a day to view its entries.
+3. The user can scroll through all of the journal's entries.
+4. The user can create a new entry.
+5. The user can open an entry.
+6. The user can search for a particular day.
+
+*User Stories*
+1. As a user, I can quickly tell on which days I've written journal entries.
+2. As a user, I can pull up all of the entries written on a particular day.
+3. As a user, I can scroll through all of my entries but still keep the calendar in view.
+4. As a user, I can create a new entry from this screen.
+5. As a user, I can open an entry.
+6. As a user, I can search for an entry by date.
